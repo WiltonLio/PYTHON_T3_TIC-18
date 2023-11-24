@@ -12,3 +12,5 @@ ____
     `PP-PO01/`: Pasta contendo os arquivos da intrucao pratica.
         `pratica_PP_001/`: Pasta contendo os arquivos de código fonte do Projeto.
     `README.md`: Arquivo contendo informações sobre a equipe e a estrutura do repositório.
+
+tl;dr:
